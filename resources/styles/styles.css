@@ -5,3 +5,7 @@ h1 {
 .selected {
   color: #22bdf0;
 }
+
+.task-form {
+  margin: 80px 0;
+}
